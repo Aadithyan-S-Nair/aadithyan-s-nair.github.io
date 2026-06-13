@@ -2,8 +2,6 @@
   <img src="https://github.com/user-attachments/assets/d0f3921b-9c63-442a-bdec-7e98245fb57f" alt="Aadithyan S Nair" width="180" height="180" style="border-radius: 50%;">
 </p>
 
-# Aadithyan S Nair
-
 Mechanical Engineering Undergraduate at **National Institute of Technology Calicut (NITC)** with interests in additive manufacturing, CAD, robotics, and nonlinear dynamic systems.
 
 ---
