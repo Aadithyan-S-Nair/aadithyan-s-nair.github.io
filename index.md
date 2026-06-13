@@ -4,7 +4,7 @@
 
 # Aadithyan S Nair
 
-Mechanical Engineering Undergraduate at **National Institute of Technology Calicut (NITC)** with interests in robotics, additive manufacturing, CAD, and nonlinear dynamic systems.
+Mechanical Engineering Undergraduate at **National Institute of Technology Calicut (NITC)** with interests in additive manufacturing, CAD, robotics, and nonlinear dynamic systems.
 
 ---
 
@@ -22,7 +22,7 @@ Designed and developed a slurry-based additive manufacturing platform for materi
 ### AviBot
 Autonomous robotic platform focused on hardware integration, control systems, and intelligent navigation.
 
-### Non-Linear
+### Non-Linear 
 Modeling and simulation of nonlinear dynamic systems to study stability, behavior, and system response.
 
 ---
@@ -30,34 +30,28 @@ Modeling and simulation of nonlinear dynamic systems to study stability, behavio
 ## Experience
 
 ### Hardware Lead — Robotics Interest Group, NIT Calicut
-Led hardware development activities, mentored team members, and contributed to robotics projects and technical events.
-
-### Technical Workshop Instructor
+Led hardware development activities, inventory management, mentored team members, and contributed to robotics projects and technical events.
 Delivered workshops and lectures on CAD, robotics, and engineering design at various institutions.
 
 ---
 
 ## Achievements
 
-- 🏆 First Place — CADWar National-Level Design Challenge
-- 🎤 Conducted technical workshops across multiple institutions
-- 🤖 Hardware Lead, Robotics Interest Group
-
+- 🏆 First Place — CADWAR National-Level speed Modelling Challenge
 ---
 
 ## Interests
 
-- Robotics
-- CAD & Product Design
 - Additive Manufacturing
-- Dynamic Systems
+- CAD & Product Design
 - Embedded Hardware
-- Football ⚽
+- Football 
+- Robotics
 
 ---
 
 ## Contact
 
-- **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-- **Email:** [your@email.com](mailto:your@email.com)
+- **GitHub:** [Aadithyan-S-Nair](https://github.com/Aadithyan-S-Nair)
+- **LinkedIn:** [Aadithyan S Nair](https://linkedin.com/in/aadithyan-s-nair-90166333b/)
+- **Email:** [aadithyansnair@email.com](mailto:aadithyansnair@email.com)
