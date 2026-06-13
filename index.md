@@ -53,4 +53,4 @@ Robotics
 
 **GitHub:** [Aadithyan-S-Nair](https://github.com/Aadithyan-S-Nair)
 **LinkedIn:** [Aadithyan S Nair](https://linkedin.com/in/aadithyan-s-nair-90166333b/)
-**Email:** [aadithyansnair@email.com](mailto:aadithyansnair@email.com)
+**Email:** [aadithyansnair@gmail.com](mailto:aadithyansnair@gmail.com)
