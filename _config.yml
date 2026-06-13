@@ -2,7 +2,7 @@ title: "Aadithyan S Nair"
 name: "Aadithyan S Nair"
 description: "Mechanical Engineering Undergraduate | Robotics | CAD | Additive Manufacturing"
 
-remote_theme: "mmistakes/minimal-mistakes"
+theme: jekyll-theme-slate
 
 plugins:
   - jekyll-include-cache
