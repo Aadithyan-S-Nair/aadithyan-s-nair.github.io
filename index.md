@@ -1,9 +1,3 @@
----
-layout: default
-title: Aadithyan S Nair
-description: Mechanical Engineering Undergraduate | Robotics | CAD | Additive Manufacturing
----
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d0f3921b-9c63-442a-bdec-7e98245fb57f" alt="Aadithyan S Nair" width="180" height="180" style="border-radius: 50%;">
 </p>
