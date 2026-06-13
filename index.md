@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d0f3921b-9c63-442a-bdec-7e98245fb57f" alt="Aadithyan S Nair" width="180" height="180" style="border-radius: 50%;">
+  <img src="https://github.com/user-attachments/assets/8152ce4d-a876-439d-8827-e464e67925c2" alt="Aadithyan S Nair" width="180" height="180" style="border-radius: 50%;">
 </p>
 
 Interested in additive manufacturing, CAD, robotics, and nonlinear dynamic systems.
