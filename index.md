@@ -1,7 +1,12 @@
+---
+layout: default
+title: Aadithyan S Nair
+description: Mechanical Engineering Undergraduate | Robotics | CAD | Additive Manufacturing
+---
 
-
-<img width="400" height="400" alt="DSC_2248" src="https://github.com/user-attachments/assets/d0f3921b-9c63-442a-bdec-7e98245fb57f" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d0f3921b-9c63-442a-bdec-7e98245fb57f" alt="Aadithyan S Nair" width="180" height="180" style="border-radius: 50%;">
+</p>
 
 # Aadithyan S Nair
 
@@ -18,56 +23,47 @@ I enjoy building hardware systems and translating engineering concepts into prac
 ## Projects
 
 ### Slurry 3D Printer
-
 Designed and developed a slurry-based additive manufacturing platform for material deposition and experimental fabrication applications.
 
 ### AviBot
-
 Autonomous robotic platform focused on hardware integration, control systems, and intelligent navigation.
 
 ### Non-Linear
-
 Modeling and simulation of nonlinear dynamic systems to study stability, behavior, and system response.
 
 ---
 
 ## Experience
 
-### Hardware Lead
-
-**Robotics Interest Group, NIT Calicut**
-
+### Hardware Lead — Robotics Interest Group, NIT Calicut
 Led hardware development activities, mentored team members, and contributed to robotics projects and technical events.
 
 ### Technical Workshop Instructor
-
 Delivered workshops and lectures on CAD, robotics, and engineering design at various institutions.
 
 ---
 
 ## Achievements
 
-* 🏆 First Place — CADWar National-Level Design Challenge
-* 🎤 Conducted technical workshops across multiple institutions
-* 🤖 Hardware Lead, Robotics Interest Group
+- 🏆 First Place — CADWar National-Level Design Challenge
+- 🎤 Conducted technical workshops across multiple institutions
+- 🤖 Hardware Lead, Robotics Interest Group
 
 ---
 
 ## Interests
 
-* Robotics
-* CAD & Product Design
-* Additive Manufacturing
-* Dynamic Systems
-* Embedded Hardware
-* Football ⚽
+- Robotics
+- CAD & Product Design
+- Additive Manufacturing
+- Dynamic Systems
+- Embedded Hardware
+- Football ⚽
 
 ---
 
 ## Contact
 
-**GitHub:** https://github.com/YOUR_USERNAME
-
-**LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN
-
-**Email:** [your@email.com](mailto:your@email.com)
+- **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
+- **Email:** [your@email.com](mailto:your@email.com)
