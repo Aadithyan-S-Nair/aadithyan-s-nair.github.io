@@ -3,9 +3,15 @@
 <img width="400" height="400" alt="DSC_2248" src="https://github.com/user-attachments/assets/d0f3921b-9c63-442a-bdec-7e98245fb57f" />
 
 
-Mechanical Engineering Undergraduate at **National Institute of Technology Calicut (NITC)**.
+# Aadithyan S Nair
 
-I enjoy building systems that combine mechanical design, automation, and rapid prototyping. My interests span CAD, robotics, additive manufacturing, and nonlinear system analysis.
+Mechanical Engineering Undergraduate at **National Institute of Technology Calicut (NITC)** with interests in robotics, additive manufacturing, CAD, and nonlinear dynamic systems.
+
+---
+
+## About Me
+
+I enjoy building hardware systems and translating engineering concepts into practical solutions. My work spans robotics, custom manufacturing systems, product design, and engineering simulations.
 
 ---
 
@@ -13,42 +19,55 @@ I enjoy building systems that combine mechanical design, automation, and rapid p
 
 ### Slurry 3D Printer
 
-Development of a custom slurry-based additive manufacturing platform for ceramic and advanced material applications.
+Designed and developed a slurry-based additive manufacturing platform for material deposition and experimental fabrication applications.
 
 ### AviBot
 
-Autonomous robotic platform focused on intelligent navigation and hardware integration.
+Autonomous robotic platform focused on hardware integration, control systems, and intelligent navigation.
 
 ### Non-Linear
 
-Simulation and analysis of nonlinear dynamic systems with emphasis on modeling and control.
+Modeling and simulation of nonlinear dynamic systems to study stability, behavior, and system response.
 
 ---
 
 ## Experience
 
-* **Hardware Lead** — Robotics Interest Group, NIT Calicut
-* Conducted technical workshops and lectures at multiple institutions
-* **1st Place**, CADWar National-Level Design Challenge
+### Hardware Lead
+
+**Robotics Interest Group, NIT Calicut**
+
+Led hardware development activities, mentored team members, and contributed to robotics projects and technical events.
+
+### Technical Workshop Instructor
+
+Delivered workshops and lectures on CAD, robotics, and engineering design at various institutions.
+
+---
+
+## Achievements
+
+* 🏆 First Place — CADWar National-Level Design Challenge
+* 🎤 Conducted technical workshops across multiple institutions
+* 🤖 Hardware Lead, Robotics Interest Group
 
 ---
 
 ## Interests
 
-* Mechanical Design
 * Robotics
+* CAD & Product Design
 * Additive Manufacturing
 * Dynamic Systems
-* Computer-Aided Engineering
+* Embedded Hardware
+* Football ⚽
 
 ---
 
-## Beyond Engineering
+## Contact
 
-⚽ Football
+**GitHub:** https://github.com/YOUR_USERNAME
 
----
+**LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN
 
-## Connect
-
-Feel free to explore my projects, research interests, and ongoing work through this portfolio.
+**Email:** [your@email.com](mailto:your@email.com)
