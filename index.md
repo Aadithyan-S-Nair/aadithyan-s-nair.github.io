@@ -46,9 +46,8 @@ An egg picking robot with autonomous navigation to be deployed in poultry farms.
 
 ---
 
-## Contact Me
+## Connect With Me
 
-
-- **GitHub:** [Aadithyan-S-Nair](https://github.com/Aadithyan-S-Nair)
-- **LinkedIn:** [Aadithyan S Nair](https://linkedin.com/in/aadithyan-s-nair-90166333b/)
 - **Email:** [aadithyansnair@gmail.com](mailto:aadithyansnair@gmail.com)
+- **LinkedIn:** [Aadithyan S Nair](https://linkedin.com/in/aadithyan-s-nair-90166333b/)
+- **Mobile:** [8281449211] 
