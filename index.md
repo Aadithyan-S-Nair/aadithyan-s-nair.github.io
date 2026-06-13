@@ -14,17 +14,17 @@ I enjoy building hardware systems and utilising engineering concepts into practi
 
 ## Projects
 
-# Modular Slurry 3D Printer
+### Modular Slurry 3D Printer
 Designed and developed a slurry-based 3D printer for material deposition and experimental fabrication applications.
 
-# AviBot
+### AviBot
 An egg picking robot with autonomous navigation to be deployed in poultry farms.
 
 ---
 
 ## Experience
 
-# Hardware Lead — [Robotics Interest Group](https://rignitc.com/), NIT Calicut(https://nitc.ac.in/)
+### Hardware Lead — [Robotics Interest Group](https://rignitc.com/), NIT Calicut(https://nitc.ac.in/)
 - Led hardware development activities, inventory management, mentored team members, and contributed to projects, competitions and technical events.
 - Delivered workshops and lectures on CAD, robotics, and engineering design at various institutions.
 
