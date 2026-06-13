@@ -1,15 +1,11 @@
 title: Aadithyan S Nair
 description: Mechanical Engineering Undergraduate | Robotics | CAD | Additive Manufacturing
-
 theme: jekyll-theme-architect
-
 markdown: kramdown
 
 github:
-is_project_page: false
-
-show_downloads: false
+  is_project_page: false
+  show_downloads: false
 
 plugins:
-
-* jekyll-seo-tag
+  - jekyll-seo-tag
